@@ -1,0 +1,94 @@
+{
+  "Admin": [
+    {
+      "id": "4da3",
+      "name": "sandy",
+      "email": "sandy@gmal.com",
+      "password": "101010",
+      "cpassword": "101010",
+      "number": "1231231230",
+      "city": "Kovai",
+      "financeName": "sandy@info-tech"
+    },
+    {
+      "id": "1f05",
+      "name": "admin1",
+      "email": "admin1@gmail.com",
+      "password": "admin1",
+      "cpassword": "admin1",
+      "number": "0000000001",
+      "city": "Kovai",
+      "financeName": "admin1-info-tech"
+    },
+    {
+      "id": "9919",
+      "name": "admin2",
+      "email": "admin2@gmail.com",
+      "password": "admin2",
+      "cpassword": "admin2",
+      "number": "0000000002",
+      "city": "Kovai",
+      "financeName": "admin2-info-tech"
+    },
+    {
+      "id": "b00b",
+      "name": "admin3",
+      "email": "admin3@gmail.com",
+      "password": "admin3",
+      "cpassword": "admin3",
+      "number": "0000000003",
+      "city": "Salem",
+      "financeName": "admin3-info-tech"
+    }
+  ],
+  "users": [
+    {
+      "id": "a54c",
+      "name": "Santhosh",
+      "email": "santhoshpsvg@gmail.com",
+      "password": "1234567",
+      "cpassword": "1234567",
+      "number": "0000000000",
+      "city": "Chennai",
+      "loanAmount": "100000",
+      "loanDescription": "medical issues",
+      "status": "pending"
+    },
+    {
+      "id": "279c",
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123123",
+      "cpassword": "123123",
+      "number": "1212121212",
+      "city": "Kovai",
+      "loanAmount": "120000",
+      "loanDescription": "wine vanga kasa ill da mairuu............................",
+      "status": "pending"
+    },
+    {
+      "id": "da5f",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "user01",
+      "cpassword": "user01",
+      "number": "1000000000",
+      "city": "Chennai",
+      "loanAmount": "230000",
+      "loanDescription": "surgery",
+      "status": "pending"
+    },
+    {
+      "id": "1e60",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "user02",
+      "cpassword": "user02",
+      "number": "1212121212",
+      "city": "Salem",
+      "loanAmount": "230000",
+      "loanDescription": "bike",
+      "status": "pensssding"
+    }
+  ]
+}
